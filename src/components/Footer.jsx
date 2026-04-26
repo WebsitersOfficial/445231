@@ -145,8 +145,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="mt-20 pt-8 border-t border-[#d4b87a]/10 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 text-xs text-[#f5f1e8]/40">
           <div>
-            © {new Date().getFullYear()} D&apos;Sultan Cafe Tuban. All rights
-            reserved.
+            © {new Date().getFullYear()} D&apos;Sultan Cafe Tuban. Dikembangkan Oleh Websiters.
           </div>
           <div className="flex items-center gap-2">
             <span className="w-1.5 h-1.5 rounded-full bg-[#d4b87a]" />
